@@ -1,7 +1,7 @@
 # freetime-project
 
 Team members: David Sen, Ryan Vreeke, Michelle Ferdinands, 
-Caleb Hursh, Caleb Vredevoogd, Micheal Sisko
+Caleb Hursh, Caleb Vredevoogd, Michael Sisko
 
 # Vision Statement
 
