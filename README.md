@@ -1,10 +1,11 @@
 # freetime-project
 
 Team members: David Sen, Ryan Vreeke, Michelle Ferdinands, 
-Caleb Hursh, Caleb Vredevoogd, Michael Sisko
+Caleb Hursh, Caleb Vredevoogd, and Michael Sisko
 
 # Vision Statement
 
-  Students have busy schedules, and finding a time to hang out in the midst of classes, jobs, homework, and other obligations can be frustrating, especially when everybody just throws out the times they’re free in a chat. But despite crazy schedules, college students are itching for social interaction amidset a social isolating pandemic. The core purpose of this app is to simplify this process. Everybody involved can input the times they’re free into a user-friendly GUI, and the app will spit back the overlapping times (and/or the next best time if there isn’t any overlap). This can be done in something like Google Calendar already, but that involves a lot of inputting data and sharing editing access with the right people, all of which becomes more and more of a hassle the more individuals are involved.
+  Students have busy schedules, and finding freetime between classes, jobs, and other obligations can be frustrating. Especially when everyone is sending their avaialable times in the chat. Despite crazy schedules, students are itching for social interaction amidst a socially isolating pandemic. The core intention of this app is to simplify this process of meeting. Students can input the times they are free into a user-friendly GUI. The app will then return the overlapping times or the next best time, in the event of no overlap. This is possible through Google Calendar, but it requires more work and hassle than is desirable for those involved.
 
-  Beyond that, another goal is to bring people together for activities, and we accomplish this by allowing users to entire their preferred activities. Oftentimes your whole friend group isn’t available or up for a specific activity, but one or two of you really want to still do something. Using the inputed free time, the app can alert you of similar activities other people are doing during that time. We will have general categories but if the user wants to be more specific, they can. You can also choose various privacy options to keep names out of it or have an altogether private event. 
+  Another goal is to bring people together for activities. This can be achieved by allowing users to set an event type, some basic examples may include study-sessions, game-nights, workouts, etc. This feature can help to address the issue of diversified interests within a friend-group. Using the overlapping freetime, this app can also alert you of other similar events that you may be interested in. We plan to have generic categories, but we will also make custom event tags available to the user. In the case of private events we may additionally implement an event scope limiter, which allows the user to hide an event from public access.
+  
