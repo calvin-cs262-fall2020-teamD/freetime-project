@@ -10,5 +10,5 @@ Team Members: Caleb Hurshman, Caleb Vredevoogd, David Sen,
 Michael Sisko, Michelle Ferdinands, and Ryan Vreeke
 
 
-[Domain Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/Domain_Diagram.png)
-[UI Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/UI_Diagram.png)
+[Domain Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/domainModel.png)
+[UI Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/uiModel.png)
