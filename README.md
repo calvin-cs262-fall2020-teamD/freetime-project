@@ -9,10 +9,12 @@ Google Calendar is another popular option for managing schedules, but there you 
 
 
 For a look into our user interface [freetime-client](https://github.com/calvin-cs262-fall2020-teamD/freetime-client)
+
 For a look into our database [freetime-service](https://github.com/calvin-cs262-fall2020-teamD/freetime-service)
 
 Additional files:
   Here is our Domain Model. [Domain Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/domainModel.png)
+  
   Here is our UI Model [UI Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/uiModel.png)
  
 Team Members: Caleb Hurshman, Caleb Vredevoogd, David Sen,
