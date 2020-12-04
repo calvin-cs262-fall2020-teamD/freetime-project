@@ -6,13 +6,13 @@ In our app, students can input their general weekly availability into a user-fri
 
 Google Calendar is another popular option for managing schedules, but there you enter the times you're busy, not free. Also the UI automatically prompts you for event titles and other information which can get tedious to add for everything on your schedule.
 
-#### Sibling Repositories:
+### Sibling Repositories:
 
 For a look into our user interface [freetime-client](https://github.com/calvin-cs262-fall2020-teamD/freetime-client)
 
 For a look into our database [freetime-service](https://github.com/calvin-cs262-fall2020-teamD/freetime-service)
 
-#### Files and Relevant Schematics:
+### Files and Relevant Schematics:
   
   Domain Model can be found here: [Domain Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/domainModel.png)
   
