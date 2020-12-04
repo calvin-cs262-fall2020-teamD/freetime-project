@@ -8,9 +8,9 @@ Google Calendar is another popular option for managing schedules, but there you 
 
 ### Sibling Repositories:
 
-For a look into our user interface [freetime-client](https://github.com/calvin-cs262-fall2020-teamD/freetime-client)
+[Free-Time Client](https://github.com/calvin-cs262-fall2020-teamD/freetime-client) This is the front-end work of our app where the interface is implemented.
 
-For a look into our database [freetime-service](https://github.com/calvin-cs262-fall2020-teamD/freetime-service)
+[Free-Time Service](https://github.com/calvin-cs262-fall2020-teamD/freetime-service) This is the back-end work of our app where the database is implemented.
 
 ### Files and Relevant Schematics:
   
