@@ -13,15 +13,16 @@ Google Calendar is another popular option for managing schedules, but there you 
 [Free-Time Service](https://github.com/calvin-cs262-fall2020-teamD/freetime-service) - This is the back-end work of our app where the database is implemented.
 
 ### Files and Relevant Schematics:
-  
+
   Domain Model can be found here: [Domain Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/domainModel.png)
-  
+
   UI Model can be found here: [UI Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/uiModel.png)
- 
+
+  Deployment Model can be found here: [Deployment Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/deploymentModel.png)
+
   Usability Script can be found here: [Usability Script](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/Usability_Script_v7.pdf)
   
   Usability Notes can be found here: [Usability Notes](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/Usability_Test_Notes.pdf)
- 
+
 Team Members: Caleb Hurshman, Caleb Vredevoogd, David Sen,
 Michael Sisko, Michelle Ferdinands, and Ryan Vreeke
-
