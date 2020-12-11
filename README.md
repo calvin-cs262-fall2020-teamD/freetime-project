@@ -23,6 +23,8 @@ Google Calendar is another popular option for managing schedules, but there you 
   Usability Script can be found here: [Usability Script](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/Usability_Script_v7.pdf)
   
   Usability Notes can be found here: [Usability Notes](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/User_Report.pdf)
+  
+  Final Presentation Slides: [FreeTime Presentation](https://docs.google.com/presentation/d/1iOKJNzBBa4xkLOwWO9vmuAHVfgIpYGsI3i2g_L8u2GM/edit#slide=id.g786ce5d372_0_72)
 
 Team Members: Caleb Hurshman, Caleb Vredevoogd, David Sen,
 Michael Sisko, Michelle Ferdinands, and Ryan Vreeke
