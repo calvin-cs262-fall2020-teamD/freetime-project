@@ -16,7 +16,7 @@ Google Calendar is another popular option for managing schedules, but there you 
 
   Domain Model can be found here: [Domain Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/domainModel.png)
 
-  UI Model can be found here: [UI Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/uiModel.png)
+  UI Model can be found here: [UI Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/UI_Diagram.png)
 
   Deployment Model can be found here: [Deployment Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/deploymentModel.png)
 
