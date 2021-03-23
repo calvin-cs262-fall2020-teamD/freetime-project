@@ -12,6 +12,10 @@ Google Calendar is another popular option for managing schedules, but there you 
 
 [Free-Time Service](https://github.com/calvin-cs262-fall2020-teamD/freetime-service) - This is the back-end work of our app where the database is implemented.
 
+### Published:
+
+https://expo.io/@ryan0229/freetime - This is where FreeTime is published. You can go to this site and scan the QR code using the Expo Go app on your Android phone to use the FreeTime app!
+
 ### Files and Relevant Schematics:
 
   Domain Model can be found here: [Domain Model](https://github.com/calvin-cs262-fall2020-teamD/freetime-project/blob/master/domainModel.png)
